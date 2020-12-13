@@ -2,7 +2,7 @@
 ## PJ108
 <img src="images/PJ108-front.jpg" style="display: inline-block;" width="400"><img src="images/PJ108-back.jpg" style="display: inline-block;" width="400">
 
-The PJ108 module is a 9.8x12.9mm open-source, stand-alone, programmable lightning strike sensor based on ATtiny85 with [PJON](https://github.com/gioblu/PJON/) over [PJDL](https://github.com/gioblu/PJON/blob/master/src/strategies/SoftwareBitBang/specification) networking. It needs only 3 pins (PJDL, 5v, GND) to operate transmitting samples and receiving incoming configuration on the same PJON IO pin.
+The PJ108 module is a 33x25mm open-source, stand-alone, programmable lightning strike sensor based on ATtiny85 with [PJON](https://github.com/gioblu/PJON/) over [PJDL](https://github.com/gioblu/PJON/blob/master/src/strategies/SoftwareBitBang/specification) networking. It needs only 3 pins (PJDL, 5v, GND) to operate transmitting samples and receiving incoming configuration on the same PJON IO pin.
 
 ```cpp  
  _______   _______   _______
